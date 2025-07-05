@@ -8,4 +8,4 @@
 7. University
 8. B1
 
-[Link to CV](https://valeria173.github.io/rsschool-cv/)
+[Link to CV](https://valeria173.github.io/rsschool-cv/cv)
